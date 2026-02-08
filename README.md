@@ -15,33 +15,18 @@ The dataset consists of transactional retail data, including:
 
 **Key Columns**
 
-
-**Approach**
-
 - Date : Transaction date
-
 - Store_Nbr : Store identifier
-
 - Lylty_Card_Nbr : Customer loyalty card ID
-
 - Txn_Id : Transaction ID
-
 - Prod_Nbr : Product identifier
-
 - Prod_Qty : Quantity purchased
-
 - Tot_Sales : Total sales value
-
 - Package_Size : Product pack size
-
 - Brand / Flavor  : Product attributes
-
 - Premium_Customer : Customer premium classification
-
 - Age_Stage : Customer age group
-
 - Marital / Fam : Household and family indicators
-
 - Package_bins : Pack size grouping for analysis
   
 **Tools**
